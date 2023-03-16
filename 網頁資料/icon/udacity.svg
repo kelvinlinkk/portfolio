@@ -26,7 +26,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.6444444"
-     inkscape:cx="138.56707"
+     inkscape:cx="136.78354"
      inkscape:cy="108.52134"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -38,6 +38,13 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g32584">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:7.55906;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect36226"
+       width="254.63414"
+       height="261.76828"
+       x="-13.993902"
+       y="-3.0182927" />
     <path
        style="fill:none;stroke:#26c6da;stroke-width:7.55906;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 59.817073,80.396341 33.661349,-19.434388 4.234055,2.444533 v 59.678884 c -0.14293,34.95894 66.479793,27.70702 66.372893,0 V 65.579268 L 159.83232,61.32622 134.5269,75.93631 v 62.7893 c -0.39683,33.64907 -75.570094,38.97462 -74.709827,0 z"
